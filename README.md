@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Iain
+# Hey, I'm Iain
 
 Thanks for stopping by!
 
@@ -6,7 +6,7 @@ I'm interested in **distributed systems, full-stack development, microservices, 
 
 ---
 
-## 🛠️ What I Work With
+## What I Work With
 
 ### Languages
 - **Python**
@@ -22,9 +22,9 @@ I'm interested in **distributed systems, full-stack development, microservices, 
 - **NestJS**
 
 ### I Also Like To Tinker With
-- 🎨 **Frontend** — React
-- 📊 **Data Engineering** — Kafka, Airflow, Spark
-- ☁️ **Cloud** — GCP, AWS, Cloudflare
+-  **Frontend** — React
+-  **Data Engineering** — Kafka, Airflow, Spark
+-  **Cloud** — GCP, AWS, Cloudflare
 
 ---
 
@@ -46,4 +46,6 @@ I'm currently developing for **[Moober](https://mooberdavis.com/)**, where I ser
 
 I'll be joining **[Layup Parts](https://www.layupparts.com/)** as a **Software Engineering Intern** in **Winter 2027**.
 
+
+Feel free to reach out me @ Iainevans2005@gmail.com or [here](https://www.linkedin.com/in/iain-hennington-94143b303)
 ---
