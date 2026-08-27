@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hey, I'm Iain
 
-<!--
-**IainHenn/IainHenn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for stopping by!
 
-Here are some ideas to get you started:
+I'm interested in **distributed systems, full-stack development, microservices, real-time processing, and data engineering**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Work With
+
+### Languages
+- **Python**
+-  **Golang**
+-  **TypeScript**
+-  **Java**
+
+### Backend
+- **Gin**
+- **Flask**
+- **FastAPI**
+- **Spring Boot**
+- **NestJS**
+
+### I Also Like To Tinker With
+- 🎨 **Frontend** — React
+- 📊 **Data Engineering** — Kafka, Airflow, Spark
+- ☁️ **Cloud** — GCP, AWS, Cloudflare
+
+---
+
+## Where I've Been
+
+**[Fabletics](https://www.fabletics.com/)** · *Software Engineering Intern* · Summer 2026
+
+**[Persist AI](https://www.persist.ai/)** · *Software Engineering Intern* YC · Series A · 2024–2026
+
+---
+
+## Currently
+
+I'm currently developing for **[Moober](https://mooberdavis.com/)**, where I serve as the **Lead Engineer** for the team.
+
+---
+
+## What's Next
+
+I'll be joining **[Layup Parts](https://www.layupparts.com/)** as a **Software Engineering Intern** in **Winter 2027**.
+
+---
