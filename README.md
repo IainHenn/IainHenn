@@ -32,7 +32,7 @@ I'm interested in **distributed systems, full-stack development, microservices, 
 
 **[Fabletics](https://www.fabletics.com/)** · *Software Engineering Intern* · Summer 2026
 
-**[Persist AI](https://www.persist.ai/)** · *Software Engineering Intern* YC · Series A · 2024–2026
+**[Persist AI](https://www.persist.ai/)** · *Software Engineering Intern* · YC · Series A · 2024–2026
 
 ---
 
