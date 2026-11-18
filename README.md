@@ -40,7 +40,7 @@ I'm interested in **distributed systems, full-stack development, microservices, 
 
 I'm currently developing for **[Moober](https://mooberdavis.com/)**, where I serve as the **Lead Engineer** for the team.
 
-I also have some webapps up like:
+I also have some web-apps up like:
 - My **[T Shirt Collection](https://iains-tshirt-collection.com/)**
 - And a collective todo list called **[Co-Todo](https://co-todo.com.de/)**
 
