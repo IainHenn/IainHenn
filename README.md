@@ -40,11 +40,17 @@ I'm interested in **distributed systems, full-stack development, microservices, 
 
 I'm currently developing for **[Moober](https://mooberdavis.com/)**, where I serve as the **Lead Engineer** for the team.
 
+I also have some webapps up like:
+- My **[T Shirt Collection](https://iains-tshirt-collection.com/)**
+- And a collective todo list called **[Co-Todo](https://co-todo.com.de/)**
+
 ---
 
 ## What's Next
 
-I'll be joining **[Layup Parts](https://www.layupparts.com/)** as a **Software Engineering Intern** in **Winter 2027**.
+I'll be joining:
+- **[Layup Parts](https://www.layupparts.com/)** as a **Software Engineering Intern** in **Winter 2027**.
+- **[Picogrid](https://picogrid.com/)** as a **Backend Engineer Intern** in **Summer 2027**.
 
 
 Feel free to reach out me @ Iainevans2005@gmail.com or [here](https://www.linkedin.com/in/iain-hennington-94143b303)
