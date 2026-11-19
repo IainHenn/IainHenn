@@ -16,7 +16,7 @@
 
 ## `FIG. 01` — overview
 
-> **Spec.** Full-stack engineer focused on distributed systems, microservices, real-time pipelines, and data engineering.
+> Full-stack engineer (backend-leaning) focused on distributed systems, microservices, real-time pipelines, and data engineering. I'm (trying to atleast...) explore functional programming, cache storage, and streaming protocols (sse, websockets).
 
 <br>
 
