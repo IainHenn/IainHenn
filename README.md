@@ -1,57 +1,41 @@
-# Hey, I'm Iain
+<p align="center">
+  <img src="./assets/blueprint-schematic.svg" alt="Iain Hennington — profile assembly" width="100%" />
+</p>
 
-Thanks for stopping by!
+### 01 — hero
+
+Hey, I'm **Iain**. Thanks for stopping by!
 
 I'm interested in **distributed systems, full-stack development, microservices, real-time processing, and data engineering**.
 
----
+### 02 — currently
 
-## What I Work With
+I'm developing for **[Moober](https://mooberdavis.com/)**, where I serve as **Lead Engineer** for the team.
 
-### Languages
-- **Python**
--  **Golang**
--  **TypeScript**
--  **Java**
+Side projects on the web:
+- **[T Shirt Collection](https://iains-tshirt-collection.com/)**
+- **[Co-Todo](https://co-todo.com.de/)** — a collective todo list
 
-### Backend
-- **Gin**
-- **Flask**
-- **FastAPI**
-- **Spring Boot**
-- **NestJS**
+### 03 — work
 
-### I Also Like To Tinker With
--  **Frontend** — React
--  **Data Engineering** — Kafka, Airflow, Spark
--  **Cloud** — GCP, AWS, Cloudflare
+#### What I work with
 
----
+**Languages:** Python · Golang · TypeScript · Java
 
-## Where I've Been
+**Backend:** Gin · Flask · FastAPI · Spring Boot · NestJS
 
-**[Fabletics](https://www.fabletics.com/)** · *Software Engineering Intern* · Summer 2026
+**Also tinkering:** React · Kafka · Airflow · Spark · GCP · AWS · Cloudflare
 
-**[Persist AI](https://www.persist.ai/)** · *Software Engineering Intern* · YC · Series A · 2024–2026
+#### Where I've been
 
----
+- **[Fabletics](https://www.fabletics.com/)** — Software Engineering Intern · Summer 2026
+- **[Persist AI](https://www.persist.ai/)** — Software Engineering Intern · YC · Series A · 2024–2026
 
-## Currently
+#### What's next
 
-I'm currently developing for **[Moober](https://mooberdavis.com/)**, where I serve as the **Lead Engineer** for the team.
+- **[Layup Parts](https://www.layupparts.com/)** — Software Engineering Intern · Winter 2027
+- **[Picogrid](https://picogrid.com/)** — Backend Engineer Intern · Summer 2027
 
-I also have some web-apps up like:
-- My **[T Shirt Collection](https://iains-tshirt-collection.com/)**
-- And a collective todo list called **[Co-Todo](https://co-todo.com.de/)**
+### 04 — contact
 
----
-
-## What's Next
-
-I'll be joining:
-- **[Layup Parts](https://www.layupparts.com/)** as a **Software Engineering Intern** in **Winter 2027**.
-- **[Picogrid](https://picogrid.com/)** as a **Backend Engineer Intern** in **Summer 2027**.
-
-
-Feel free to reach out me @ Iainevans2005@gmail.com or [here](https://www.linkedin.com/in/iain-hennington-94143b303)
----
+[Iainevans2005@gmail.com](mailto:Iainevans2005@gmail.com) · [LinkedIn](https://www.linkedin.com/in/iain-hennington-94143b303)
